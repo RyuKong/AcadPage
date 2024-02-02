@@ -85,9 +85,9 @@ author:
   bio              : "Earth & Atmospheric Sciences Ph.D. Student @ GaTech | B.A. & B.S. Atmospheric & Oceanic Sciences (Honors), Astrophysics, and GIS-focused Geography @ CU Boulder."
   location         : "Atlanta, GA, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=L3EMDYkAAAAJ&hl=en&authuser=2"
-  email            :
+  pubmed           : ""
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=L3EMDYkAAAAJ"
+  email            : "Jay.Kong@gatech.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
