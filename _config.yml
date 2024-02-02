@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "J. Kong / GaTech"
 title_separator          : "-"
-name                     : &name "Jie (Jay) Kong"
+name                     : &name "Jay Kong (孔杰)"
 description              : &description "PhD Student at Georgia Institute of Technology"
 url                      : https://ryukong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
