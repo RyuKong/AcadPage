@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I'm a Ph.D. student with the Climate Dynamics & Modeling Group at the Georgia Institute of Technology. As an enthusiastic and self-motivated student, I possess a profound understanding of planetary, atmospheric, and oceanic sciences with over four years of coding experience using Python and R languages. I'm also passionate about exploring the large-scale atmospheric dynamics and evolution of planets and moons within or beyond our solar system, as well as using coupled numerical models, applying data assimilation, and developing research methods to reveal and better understand the atmosphere, ocean, and climate on Earth.
 
 A data-driven personal website
 ======
